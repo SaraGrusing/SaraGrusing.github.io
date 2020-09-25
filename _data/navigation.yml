@@ -1,9 +1,9 @@
 # Site navigation links
 - title: Home
-  url: /
+  url: SaraGrusing.github.io
 
-#- title: Presentations
-#  url: /presentations/
+- title: Publications
+  url: https://pubmed.ncbi.nlm.nih.gov/?term=Grusing%2C+S
 
 #- title: Resume
 #  url: /resume/
