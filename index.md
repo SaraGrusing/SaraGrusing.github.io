@@ -7,7 +7,7 @@ Senior Research Assistant at the Pacific Northwest Evidence-based Practice Cente
 
 ## Current Interests:
 
-- Sytematic reviews
+- Systematic reviews
 - Biostatistics
 - Public Health
 - Environmental Health
